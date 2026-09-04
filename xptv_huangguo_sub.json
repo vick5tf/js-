@@ -1,0 +1,12 @@
+{
+  "sites": [
+    {
+      "name": "黄果剧场",
+      "type": 3,
+      "api": "csp_huangguo",
+      "ext": "https://cdn.jsdelivr.net/gh/vick5tf/js-@main/%E9%BB%84%E6%9E%9C%E5%BD%B1%E8%A7%86.js",
+      "searchable": 1,
+      "quickSearch": 1
+    }
+  ]
+}
